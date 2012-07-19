@@ -1,3 +1,0 @@
-MYTestRepo
-abc:wq==========
-
